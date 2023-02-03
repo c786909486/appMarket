@@ -1,0 +1,5 @@
+{
+    "app_name":"appMarket",
+    "port":"8080",
+    "mode":"dev"
+}
